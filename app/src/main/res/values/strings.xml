@@ -6,4 +6,5 @@
     <string name="lion_button_text">ライオン</string>
     <string name="hippo_button_text">カバ</string>
     <string name="giraffe_button_text">キリン</string>
+    <string name="next_text">次へ</string>
 </resources>
